@@ -30,3 +30,5 @@ IDE compatible con Java (Eclipse, IntelliJ, NetBeans)
 
 ![image](https://github.com/user-attachments/assets/3864a32f-3525-42a8-b3dd-55191e182c10)
 
+Aca te dejo el como puedes usar este componente visual con un video guiado: https://www.youtube.com/watch?v=F22ZnhI_ve8
+
