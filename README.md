@@ -1,13 +1,11 @@
-Un componente interactivo de calificación con estrellas para aplicaciones Java Swing, con soporte para imágenes personalizadas o generación vectorial.
+Un componente interactivo de calificación con estrellas para aplicaciones Java Swing.
 
 🚀 Características Principales
 Calificación interactiva de 1 a 5 estrellas (configurable)
 
 Dos modos de visualización:
 
-Con imágenes personalizadas (estrella11.png y estrella22.png)
-
-Con gráficos vectoriales generados dinámicamente
+Con gráficos vectoriales generados dinámicamente que ayudan a enmarcar de mejor manera
 
 Personalización completa:
 
