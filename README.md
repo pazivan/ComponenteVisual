@@ -27,3 +27,6 @@ Java JDK 17 o superior
 Apache Maven 3.6+ (para construcción)
 
 IDE compatible con Java (Eclipse, IntelliJ, NetBeans)
+
+![image](https://github.com/user-attachments/assets/3864a32f-3525-42a8-b3dd-55191e182c10)
+
